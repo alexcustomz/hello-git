@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 print("Hello Git V3 desde Main")
+=======
+print("Hello Git V3 Actualizado login")
+
+>>>>>>> Stashed changes
